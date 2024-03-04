@@ -1,7 +1,7 @@
 export default {
   providers: [
     {
-      domain: "https://just-mastodon-0.clerk.accounts.dev",
+      domain: "https://informed-sunbird-34.clerk.accounts.dev",
       applicationID: "convex",
     },
   ]
