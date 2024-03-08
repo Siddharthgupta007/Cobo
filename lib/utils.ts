@@ -12,6 +12,7 @@ import {
   XYWH
 } from "@/types/canvas";
 
+
 const COLORS = [
   "#DC2626", 
   "#D97706", 

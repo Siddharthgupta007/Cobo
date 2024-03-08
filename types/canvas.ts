@@ -17,6 +17,7 @@ export enum LayerType {
   Note,
 };
 
+
 export type RectangleLayer = {
   type: LayerType.Rectangle;
   x: number;

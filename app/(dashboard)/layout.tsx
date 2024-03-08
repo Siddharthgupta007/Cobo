@@ -6,6 +6,7 @@ interface DashboardLayoutProps {
   children: React.ReactNode;
 };
 
+
 const DashboardLayout = ({
   children,
 }: DashboardLayoutProps) => {
