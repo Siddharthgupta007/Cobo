@@ -39,6 +39,7 @@
     "usehooks-ts": "^2.10.0",
     "zustand": "^4.5.0"
   },
+  
   "devDependencies": {
     "@types/node": "^20",
     "@types/react": "^18",
